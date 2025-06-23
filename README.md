@@ -22,4 +22,4 @@
 ---
 
 ## 🏆GitHub Trophies
-![](https://github-trophies.vercel.app/?username=Erickk0&theme=darkhub&no-frame=true&no-bg=false&margin-w=4)
+![](https://github-trophies.vercel.app/?username=Erickk0&theme=darkhub&no-frame=true&no-bg=false&margin-w=4&hide_border=false)
