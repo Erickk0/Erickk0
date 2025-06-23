@@ -37,7 +37,6 @@
     <a href="https://unity.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" alt="unity" width="40" height="40"/></a>
     <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/d/df/Wireshark_icon.svg" alt="wireshark" width="40" height="40"/></a>
     <a href="https://www.postman.com" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="postman" width="40" height="40"/></a>
-    <a href="https://www.talend.com/" target="_blank" rel="noreferrer"><img src="https://statics-dev.cloud.talend.com/@talend/common/images/favicon-logo-square.ico"" alt="talend" width="40" height="40"/></a>
     <a href="https://kubernetes.io" target="_blank" rel="noreferrer"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/kubernetes-icon.png"" alt="talend" width="40" height="40"/></a>
 </p>
 
