@@ -3,7 +3,7 @@
 - I'm currently pursuing an internship as a Software Developer at ekkodale GmbH
 - [Visit my GitHub Pages site](https://erickk0.github.io/)
 
-<p align="center"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGJ6bW1tZnFmc241Yjg3OTFpam4yN2U1MzV2ZXp2dDR3ZGR2NmtidyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/SEaKNxJgOfU76/giphy.gif" alt="random anime gif" width="600px"></p>
+<p align="center"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjFnNzVoMnhlc3h2NGU2OXFlZGN6NjlubGUwYnRzYTRnYWd6NjltZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/zqihZZ5Qny4q4/giphy.gif" alt="gif" width="600px"></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Erickk0&label=Profil-Besuche&color=0e75b6&style=flat" alt="Erickk0" /> </p>
 
