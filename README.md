@@ -1,6 +1,6 @@
 ## Hi this is Erick 👋
 
-- I'm currently pursuing an internship as a Software Developer at ekkodale GmbH
+- I'm currently pursuing an internship as a Software Developer at ekkodale GmbH focusing on kubernetes and IAC
 - [Visit my GitHub Pages site](https://erickk0.github.io/)
 
 <p align="center"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjFnNzVoMnhlc3h2NGU2OXFlZGN6NjlubGUwYnRzYTRnYWd6NjltZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/zqihZZ5Qny4q4/giphy.gif" alt="gif" width="600px"></p>
