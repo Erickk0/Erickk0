@@ -22,4 +22,4 @@
 ---
 
 ## 🏆GitHub Trophies
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=justinjd00&theme=dracula" alt="justinjd00" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Erick0&theme=dracula" alt="Erickk0" /></a> </p>
