@@ -3,8 +3,6 @@
 - I'm currently pursuing an internship as a Software Developer at ekkodale GmbH focusing on kubernetes and IAC
 - [Visit my GitHub Pages site](https://erickk0.github.io/)
 
-<p align="center"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjFnNzVoMnhlc3h2NGU2OXFlZGN6NjlubGUwYnRzYTRnYWd6NjltZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/zqihZZ5Qny4q4/giphy.gif" alt="gif" width="600px"></p>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Erickk0&label=Profil-Besuche&color=0e75b6&style=flat" alt="Erickk0" /> </p>
 
 ---
@@ -18,8 +16,3 @@
 ![](https://github-readme-stats.vercel.app/api?username=Erickk0&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Erickk0&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Erickk0&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-
-## 🏆GitHub Trophies
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Erick0&theme=dracula" alt="Erickk0" /></a> </p>
