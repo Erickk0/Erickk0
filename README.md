@@ -2,7 +2,7 @@
 
 - I'm currently pursuing an internship as a Software Developer at ekkodale GmbH focusing on kubernetes and IAC
 - [Visit my GitHub Pages site](https://erickk0.github.io/)
-- Currently working setting up my own k3s cluster with kafka integration to learn about cloud native development.
+- Currently working setting up my own k3s cluster with kafka integration and developing my own template microservices to learn more about cloud native development.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Erickk0&label=Profil-Besuche&color=0e75b6&style=flat" alt="Erickk0" /> </p>
 
