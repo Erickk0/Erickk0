@@ -6,7 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Erickk0&label=Profil-Besuche&color=0e75b6&style=flat" alt="Erickk0" /> </p>
 
----
 
 <!-- 
 # 💻Tech Stack
