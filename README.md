@@ -2,6 +2,8 @@
 
 - [Visit my GitHub Pages site](https://erickk0.github.io/)
 - Currently working setting up my own k3s cluster with kafka integration and developing my own template microservices to learn more about cloud native development.
+- Set up for the k3s Cluster is completed
+  - Prod URL's: [Frontend](https://microfrontend.erickslab.de/); [Order-Service API](https://orderservice.erickslab.de/docs#/); [Notification-Service API](https://notificationservice.erickslab.de/docs#/); [Kafka-UI](https://kafka.erickslab.de/)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Erickk0&label=Profil-Besuche&color=0e75b6&style=flat" alt="Erickk0" /> </p>
 
