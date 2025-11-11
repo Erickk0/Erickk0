@@ -1,6 +1,7 @@
 ## Hi this is Erick 👋
 
 - [Visit my GitHub Pages site](https://erickk0.github.io/)
+- [Open-Source Contribution](https://github.com/TWENTY-20/helm-charts/tree/main/espocrm)
 - Currently working setting up my own k3s cluster with kafka integration and developing my own template microservices to learn more about cloud native development.
 - Set up for the k3s Cluster is completed
   - Prod URL's: [Frontend](https://microfrontend.erickslab.de/); [Order-Service API](https://orderservice.erickslab.de/docs#/); [Notification-Service API](https://notificationservice.erickslab.de/docs#/); [Kafka-UI](https://kafka.erickslab.de/)
