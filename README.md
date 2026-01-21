@@ -6,6 +6,7 @@
 - Set up for the k3s Cluster is completed | done
   - Prod URL's: [Frontend](https://microfrontend.erickslab.de/); [Order-Service API](https://orderservice.erickslab.de/docs#/); [Notification-Service API](https://notificationservice.erickslab.de/docs#/); [Kafka-UI](https://kafka.erickslab.de/)
 - Currently working on my Bachelor Thesis!
+- Learning and working in a SLURM HPC environment at Boehringer Ingelheim.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Erickk0&label=Profil-Besuche&color=0e75b6&style=flat" alt="Erickk0" /> </p>
 
